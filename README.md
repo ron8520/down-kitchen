@@ -1,6 +1,4 @@
-# F15-Group-5
-
-## Down Kitchen
+# Down Kitchen
 Due to the influence of  Covid-19, many restaurants are closed temporarily, and some districts have published the lockdown policy. People who do not have cooking experience may have trouble with their daily diets in such situations. To alleviate this dilemma, this web application called DownKitchen is implemented intending to provide easy recipes to users, share cooking moments, and communicate with other users in the comment area.
 
 
